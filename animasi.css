@@ -228,9 +228,9 @@
 }
 
 .rubberBand {
-  -webkit-animation-name: rubberBand 2s infinite;
-  -moz-animation-name: rubberBand 2s infinite;
-  animation-name: rubberBand 2s infinite;
+  -webkit-animation-name: rubberBand 5s infinite;
+  -moz-animation-name: rubberBand 5s infinite;
+  animation-name: rubberBand 5s infinite;
 }
 
 @-webkit-keyframes shake {
