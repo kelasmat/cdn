@@ -161,10 +161,10 @@
 }
 
 .pulse {
-  -webkit-animation-name: pulse 3s infinite;
-  -moz-animation-name: pulse 3s infinite;
-  -o-animation-name: pulse 3s infinite;
-  animation-name: pulse 3s infinite;
+  -webkit-animation-name: pulse ;
+  -moz-animation-name: pulse ;
+  -o-animation-name: pulse ;
+  animation-name: pulse;
 }
 
 @-webkit-keyframes rubberBand {
