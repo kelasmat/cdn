@@ -413,11 +413,10 @@
 }
 
 .swing {
-  animation: swing 3s infinite;
-  -webkit-transform-origin: top center;
+   -webkit-transform-origin: top center;
   transform-origin: top center;
   -webkit-animation-name: swing;
-  animation-name: swing;
+  animation-name: swing 3s infinite;
 }
 
 @-webkit-keyframes tada {
