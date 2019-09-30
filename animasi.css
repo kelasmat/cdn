@@ -430,6 +430,9 @@
 }
 
 .swing {
+   margin: 0px 0 0 0px;
+}
+.swing:hover {
    -webkit-transform-origin: top center;
   -moz-transform-origin: top center;
   transform-origin: top center;
@@ -437,7 +440,6 @@
   animation-name: swing;
   animation: swing 3s infinite;
 }
-
 @-webkit-keyframes tada {
   from {
     -webkit-transform: scale3d(1, 1, 1);
