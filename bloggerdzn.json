@@ -1,0 +1,75 @@
+{
+
+  "name": "bloggerdzn.blogspot.com",
+
+  "short_name": "Redesign Blogger",
+
+  "start_url": "https://bloggerdzn.blogspot.com",
+
+  "display": "standalone",
+
+  "background_color": "#222",
+
+  "theme_color": "#0275c6",
+
+  "description": "Media Informasi Seputar Redesign Blog, Tips dan Trik, Tutorial Blog, Dan Tempat Untuk Berbagi Info-Info Menarik, Serta Berita Terbaru Lainnya",
+
+  "icons": [{
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s48/android-icon-192x192.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s72/android-icon-192x192.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s96/android-icon-192x192.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s144/android-icon-192x192.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s168/android-icon-192x192.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://2.bp.blogspot.com/-GP8PaIDSxDk/XKCZ1QXBE_I/AAAAAAAAAaE/JHZ2WdIoPE8rSZktBwCUvvogWKLsRnOuwCLcBGAs/s192/android-icon-192x192.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://rawcdn.githack.com/seotechman/root/master/newbackground.jpg",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
