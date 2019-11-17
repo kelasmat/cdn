@@ -1,0 +1,38 @@
+{
+  "name": "Kelas Math",
+  "short_name": "KelasMat",
+  "start_url": "https://www.kelasmat.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Cara Cerdas Belajar Online",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-kza6aCFrkJM/XdEqU-QmWiI/AAAAAAAABxE/PJ0eifPQM7gJQS8-wcB1AlcuFHeb3jVRwCLcBGAsYHQ/s1600/logo48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-kukgnKoviEY/XdEqWYmlhrI/AAAAAAAABxI/NYdGhLGM_U4LqQ3BzoJSKJwV-X7Oa4FAACLcBGAsYHQ/s1600/logo72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5E1OE4bTrjE/XdEqTm1h0II/AAAAAAAABw4/P3Fe8DfIzFAZZhehuw6MhG0Vmzf9MFbUwCLcBGAsYHQ/s1600/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-CF1Lb9J9XAk/XdEqUYlLuiI/AAAAAAAABw8/9PvYROhjq2cI2dufLeur00Wb3mBhmANlACLcBGAsYHQ/s1600/logo144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LwnfRGb-ptk/XdEqUT1PtyI/AAAAAAAABxA/B31MvIdrpPUDS4dT_w06JW-pwRzne4p1gCLcBGAsYHQ/s1600/logo168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-g4IWzHFyuN0/XdErSluVn7I/AAAAAAAABxk/FgU7jdCHxmwl0RKmiaxgmUNwPRB3-SpAQCLcBGAsYHQ/s1600/logo192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-app80-LgVq4/XdEqXRgcJ7I/AAAAAAAABxM/hmgRl8ZSLbYIOdLCODOaxnWsM33MTsrzQCLcBGAsYHQ/s1600/logo512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
