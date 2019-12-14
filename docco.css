@@ -25,7 +25,7 @@ Docco style used in http://jashkenas.github.com/docco/ converted by Simon Madine
 }
 
 .hljs-number {
-  color: #40a070;
+  color: #10b765;
 }
 
 .hljs-string,
@@ -37,7 +37,7 @@ Docco style used in http://jashkenas.github.com/docco/ converted by Simon Madine
 .hljs-selector-class,
 .hljs-section,
 .hljs-type {
-  color: #19469d;
+  color: #0559fd;
 }
 
 .hljs-params {
@@ -52,7 +52,7 @@ Docco style used in http://jashkenas.github.com/docco/ converted by Simon Madine
 .hljs-tag,
 .hljs-name,
 .hljs-attribute {
-  color: #000080;
+  color: #e81e1e;
   font-weight: normal;
 }
 
