@@ -96,3 +96,106 @@ Docco style used in http://jashkenas.github.com/docco/ converted by Simon Madine
 .hljs-strong {
   font-weight: bold;
 }
+.definition-title {padding:20px;background:#E19729;color: #fff;font-weight:bold}.definition-title h2, .definition-title h3 {font-size:1.1em;color:#fff}.definition-title span, .definition-title h2 span, .definition-title h3 span {color:#fff !important}.definition-content {padding: 20px;background: rgb(245, 207, 165) none repeat scroll 0% 0%;color: rgb(112, 68, 10);}
+.dialog{padding:3%!important;border:2px dashed #e0e0e0;background-color:#a5b99f;text-align:left}.tanya-wrapper,.jawab-wrapper{position:relative}.tanya-wrapper{padding-left:60px}.jawab-wrapper{padding-right:60px}.tanya-bg,.jawab-bg{width:50px;height:40px;background-image:url("https://3.bp.blogspot.com/-e93jyUY9MWA/WFcEUPUPLqI/AAAAAAAABBY/bbiJMQpgDEY99O-rZWQbxpMv9_WP8ADMgCLcB/s1600/dialogbg.png");background-repeat:no-repeat;background-size:auto 100%;position:absolute;top:0}.tanya-bg{background-position:left top;left:0}.jawab-bg{background-position:right top;right:0}.tanya-content{padding:10px;background:#53e057;color:#555;border:1px solid #0d8531;border-radius:5px}.jawab-content{padding:10px;background:#f9f9f9;color:#555;border:1px solid #e0e0e0;border-radius:5px}.jawab-content b{color:#333}
+.two-column{overflow:hidden}
+.two-column .column{width:50%;padding:0 15px}
+.two-column .column{float:left}
+.two-column .column:first-child{border-right:1px solid #DDD}
+/* MENU KLIK KANAN */
+.menuKlikelasmat{max-width:250px;color:#fff;position:absolute;z-index:99;display:none;box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24);border-radius:3px;overflow:hidden;    font-family: 'Museo', sans-serif, Arial;text-transform:uppercase;font-size:12px;}@media only screen and (max-width:300px){.menuKlikelasmat{width:50%}}@media only screen and (min-width:300px){.menuKlikelasmat{width:30%}}.menuKlikelasmat ul{z-index:99999999999999999999;list-style:none;padding:0;margin:0}.menuKlikelasmat ul li{margin:0;padding:0}.menuKlikelasmat ul li a{padding:4%;display:block;box-sizing:border-box;text-decoration:none;position:relative;background:#fff;color:#000;-webkit-transition:background-color 500ms linear;-moz-transition:background-color 500ms linear;-o-transition:background-color 500ms linear;-ms-transition:background-color 500ms linear;transition:background-color 500ms linear}.menuKlikelasmat ul li a:hover{background-color:#475dc5;color:#fff}
+#wrap {
+margin: 20px auto;
+text-align: center;
+}
+#wrap br {
+display: none;
+}
+.btn-slide, .btn-slide2 {
+position: relative;
+display: inline-block;
+height: 50px;
+width: 200px;
+line-height: 50px;
+padding: 0;
+border-radius: 50px;
+background: #fdfdfd;
+border: 2px solid #0099cc;
+margin: 10px;
+transition: .5s;
+}
+.btn-slide2 {
+border: 2px solid #efa666;
+}
+.btn-slide:hover {
+background-color: #0099cc;
+}
+.btn-slide2:hover {
+background-color: #efa666;
+}
+.btn-slide:hover span.circle, .btn-slide2:hover span.circle2 {
+left: 100%;
+margin-left: -45px;
+background-color: #fdfdfd;
+color: #0099cc;
+}
+.btn-slide2:hover span.circle2 {
+color: #efa666;
+}
+.btn-slide:hover span.title, .btn-slide2:hover span.title2 {
+left: 40px;
+opacity: 0;
+}
+.btn-slide:hover span.title-hover, .btn-slide2:hover span.title-hover2 {
+opacity: 1;
+left: 40px;
+}
+.btn-slide span.circle, .btn-slide2 span.circle2 {
+display: block;
+background-color: #0099cc;
+color: #fff;
+position: absolute;
+float: left;
+margin: 5px;
+line-height: 42px;
+height: 40px;
+width: 40px;
+top: 0;
+left: 0;
+transition: .5s;
+border-radius: 50%;
+}
+.btn-slide2 span.circle2 {
+background-color: #efa666;
+}
+.btn-slide span.title,
+.btn-slide span.title-hover, .btn-slide2 span.title2,
+.btn-slide2 span.title-hover2 {
+position: absolute;
+left: 90px;
+text-align: center;
+margin: 0 auto;
+font-size: 16px;
+font-weight: bold;
+color: #30abd5;
+transition: .5s;
+}
+.btn-slide2 span.title2,
+.btn-slide2 span.title-hover2 {
+color: #efa666;
+left: 80px;
+}
+.btn-slide span.title-hover, .btn-slide2 span.title-hover2 {
+left: 80px;
+opacity: 0;
+}
+.btn-slide span.title-hover, .btn-slide2 span.title-hover2 {
+color: #fff;
+}
+.arabic {
+font-size: 26px; font-weight: normal;
+font-family: 'KFGQPC Uthman Taha Naskh', KFGQPC_Naskh, traditional arabic;
+margin-top: 10px; margin-bottom: 10px;
+padding-left: 20px; padding-right: 20px;
+direction: rtl; line-height: 34px;
+}
