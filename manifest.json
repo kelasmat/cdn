@@ -1,26 +1,8 @@
 {
-  "short_name": "KelasMath",
-  "name": "Kelas Math",
-  "display": "standalone",
-  "background_color": "#f6f9fc",
-  "theme_color": "#44267d",
-  "description": "Cara Smart ya Kelas Math",
-  "icons": [
-    {
-      "src": "https://1.bp.blogspot.com/-kza6aCFrkJM/XdEqU-QmWiI/AAAAAAAABxE/PJ0eifPQM7gJQS8-wcB1AlcuFHeb3jVRwCLcBGAsYHQ/s1600/logo48.png",
-      "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-5E1OE4bTrjE/XdEqTm1h0II/AAAAAAAABw4/P3Fe8DfIzFAZZhehuw6MhG0Vmzf9MFbUwCLcBGAsYHQ/s1600/logo.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-g4IWzHFyuN0/XdErSluVn7I/AAAAAAAABxk/FgU7jdCHxmwl0RKmiaxgmUNwPRB3-SpAQCLcBGAsYHQ/s1600/logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ],
-  "start_url": "https://www.kelasmat.com/"
+    "name": "Kelasmat",
+    "short_name": "Kelasmat",
+    "permissions": ["notifications","gcm"],
+    "display": "standalone",
+    "gcm_sender_id": "703280822050",
+    "gcm_user_visible_only": true
 }
