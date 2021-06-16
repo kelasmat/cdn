@@ -48,5 +48,5 @@ r = 0;
 i++;
 }
 document.write('</ul>');
-document.write('<noscript><a href="http://www.spiderbeat.com"><small>Cara membuat blog</small></a></noscript>');
+document.write('<noscript><a href="https://www.kelasmat.com"><small>Kelasmat</small></a></noscript>');
 }
