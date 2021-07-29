@@ -1,8 +1,50 @@
 {
-    "name": "Kelasmat",
-    "short_name": "Kelasmat",
-    "permissions": ["notifications","gcm"],
-    "display": "standalone",
-    "gcm_sender_id": "703280822050",
-    "gcm_user_visible_only": true
+ "name": "Kelasmat",
+ "short_name": "Kelasmat",
+ "description": "Jadilah Smart bersama Kelasmat",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#fff",
+ "start_url": "https://www.kelasmat.com/",
+ "background_color": "transparent",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "ArRahim",
+ "icons": [{
+    "src": "https://1.bp.blogspot.com/-CPVPuO8f21w/YQLL9WpqQcI/AAAAAAAADw4/Usn38h8zWPYDH1-UCyqmMRUXfaxzmjCGACLcBGAsYHQ/s320/iconkelasmat36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gOZrquMLDfk/YQLLolZuL0I/AAAAAAAADww/EjSuYlvr-HQghnluxS-C9oxE7o4w9YXPACLcBGAsYHQ/s320/iconkelasmat48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ln5RV70JfxY/YQLLWh3Ro8I/AAAAAAAADwo/BHiPxkIGR7YdbvSPARu2rq3smT5VOu7BgCLcBGAsYHQ/s320/iconkelasmat72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aINE8Fa1QPs/YQLLDT6fAPI/AAAAAAAADwg/QkTlC8mBgVYqWL7Bkx6sKhlNwozCN2B0ACLcBGAsYHQ/s320/iconkelasmat96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Tc90xeEGXQw/YQLKx_WLMaI/AAAAAAAADwY/FBd7IjKrebIql5gq9uhZk1VL30RmArhaACLcBGAsYHQ/s320/iconkelasmat144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sBttWJhRF14/YQLMTID3BvI/AAAAAAAADxA/bKmNe6ZgaYE5276hvvZFi-3Fyf1j313WgCLcBGAsYHQ/s320/iconkelasmat192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0k7gwHqH0TE/YQLKRoi24rI/AAAAAAAADwQ/zA-hu5HjQyc9CkB9FkmoNC8S3hP5GOdyACLcBGAsYHQ/s0/logopersegi.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
 }
